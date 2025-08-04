@@ -1,9 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
+N:Knebel;Christopher;;;
 FN:Christopher Knebel
+ORG:Wallner & Neubert Gesellschaft m.b.H.
+TITLE:Leitung Werkstätte und Sonderbau
 TEL;TYPE=CELL:+436648173957
+TEL;TYPE=WORK,VOICE:+4350513-266
 EMAIL:christopher.knebel@pwn.at
-ORG:Christopher Knebel
 ADR:;;Im Felberbrunn 2;Mödling;;A-2340;Österreich
 PHOTO;ENCODING=b;TYPE=PNG:
 END:VCARD
